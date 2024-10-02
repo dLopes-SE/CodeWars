@@ -1,5 +1,7 @@
 ﻿using CodeWars._6Kyu.BouncingBalls;
 
+namespace CodeWars.Tests._6Kyu.BouncingBalls;
+
 [Trait("Category", "6kyu_bouncingBalls")]
 public class BouncingBallTests
 {

@@ -1,5 +1,6 @@
 ﻿using CodeWars._5Kyu.HumanReadableTime;
-using System;
+
+namespace CodeWars.Tests._5Kyu.HumanReadableTime;
 
 [Trait("Category", "5kyu_humanReadableTime")]
 public class HumanReadableTimeTest
